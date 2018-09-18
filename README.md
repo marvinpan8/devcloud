@@ -1,5 +1,6 @@
-Webix Jet Demo App
+DevCloud Demo APP
 ===================
+#Webix Jet Demo App
 
 ### How to run
 
